@@ -10,7 +10,7 @@ const fs = require('fs-extra')
  global.github = 'https://github.com/vajirabot1' 
  global.location = 'Sri lanka, Rathnapura' 
  global.gurl = 'https://instagram.com/' // add your username 
- global.sudo = process.env.SUDO || '919628516236' 
+ global.sudo = process.env.SUDO || '94766943622' 
  global.devs = '919628516236'; 
  global.website = 'https://github.com/' //wa.me/+94766943622 
  global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://telegra.ph/file/fb7993e24f7ecdaecbed5.jpg' 
@@ -41,7 +41,7 @@ voice  :  process.env.AUTO_VOICE === undefined ? false : process.env.AUTO_VOICE,
    heroku:  process.env.heroku === undefined ? false : process.env.heroku, 
    HEROKU: { 
      HEROKU: process.env.HEROKU ||false, 
-     API_KEY: process.env.HEROKU_API_KEY === undefined ? '1abfce1e-1bee-4334-9f6c-f4c1cb1cafab' : process.env.HEROKU_API_KEY, 
+     API_KEY: process.env.HEROKU_API_KEY === undefined ? '3c3e3020-204c-4bba-9cc9-ba2fc57343f6' : process.env.HEROKU_API_KEY, 
      APP_NAME: process.env.HEROKU_APP_NAME === undefined ? 'zeropgg' : process.env.HEROKU_APP_NAME 
  }, 
    VERSION: process.env.VERSION === undefined ? 'v.0.0.2' : process.env.VERSION, 
