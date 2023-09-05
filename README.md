@@ -19,7 +19,7 @@
 2.  ***Click [FORK](https://github.com/vajirabot1/KING-VAJIRA/fork)***
 ## Heroku Deployment Method
 3. 
- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+ [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/vajirabot1/KING-VAJIRA)
 
 
  
