@@ -19,9 +19,8 @@
 2.  ***Click [FORK](https://github.com/vajirabot1/KING-VAJIRA/fork)***
 ## Heroku Deployment Method
 3. 
- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/vajirabot1/KING-VAJIRA)
 
-
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](toutch botton going inside)
  
 ## [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/apps/deploy?type=git&repository=github.com/DileepaTech/Queen-Nithya-MD&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=94705674697&env[MONGODB_URI]&&env[OWNER_NAME]=Dileepa&env[KOYEB_API]&env[PREFIX]=.&env[BOTCAHX_API]&env[ALIVE_IMG]=https://telegra.ph/file/0ff686352c51b20af8231.jpg&env[ALIVE_MSJ]=IAmOnline&env[global_url]=instagram.com&env[FAKE_COUNTRY_CODE]=92&env[READ_MESSAGE]=false&env[DISABLE_PM]=false&env[WORKTYPE]=public&env[THEME]=NITHYA&env[AUTO_STICKER]=false&env[AUTO_VOICE]=false&env[PACK_INFO]=prabath;madeby&name=nithya&env[KOYEB_NAME]=nithya&env[ANTILINK_VALUES]=chat.whatsapp.com&env[PORT]=8000)
     
